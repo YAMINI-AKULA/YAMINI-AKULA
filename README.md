@@ -68,7 +68,7 @@
 
 - **<b>FitGen AI</b>** *(Google Hackathon Winner)*  
   Real-time workout form analysis using Gemini-1.5-Pro on GCP. Dockerized with Streamlit, Cloud Run, OpenAI integration.  
-  <a href="https://github.com/YOUR_USERNAME/FitGen-AI">[Code]</a>
+  <a href="https://github.com/YAMINI-AKULA/FitgenAI">[Code]</a>
 
 - **<b>Microsoft LLM Lingua Prompt Compression</b>**  
   Reduced token size <b>70%</b>, saved <b>55%</b> compute using RAG, vector embeddings, ChatGPT.  
@@ -76,9 +76,9 @@
 
 - **<b>Alexa Sentiment Analysis</b>** *(97% accuracy)*  
   Ensemble ML (XGBoost, Random Forest) on Amazon reviews with real-time dashboards.  
-  <a href="https://github.com/YOUR_USERNAME/Alexa-Sentiment">[Code]</a>
+  <a href="https://github.com/YAMINI-AKULA/Sentiment_analysis_project">[Code]</a>
 
-- **<b>END-to-END-RAG-PROJECT</b>** *(97% accuracy)*  
+- **<b>END-to-END-RAG-PROJECT</b>** **  
   End-to-end Retrieval-Augmented application by LangChain , OpenAI API, and hugging face embeddings
   <a href="https://github.com/YAMINI-AKULA/END-to-END-RAG-PROJECT">[Code]</a>
 
