@@ -78,6 +78,10 @@
   Ensemble ML (XGBoost, Random Forest) on Amazon reviews with real-time dashboards.  
   <a href="https://github.com/YOUR_USERNAME/Alexa-Sentiment">[Code]</a>
 
+- **<b>END-to-END-RAG-PROJECT</b>** *(97% accuracy)*  
+  End-to-end Retrieval-Augmented application by LangChain , OpenAI API, and hugging face embeddings
+  <a href="https://github.com/YAMINI-AKULA/END-to-END-RAG-PROJECT">[Code]</a>
+
 <h2>🛠 Tech Stack</h2>
 
 ```mermaid
