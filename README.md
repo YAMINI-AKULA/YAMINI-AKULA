@@ -23,7 +23,7 @@
 
   <p>
     I’m currently open to opportunities in
-    <strong>Backend Software Engineering, Data Engineering, and Data Science</strong>,
+    <strong>Backend Data analytics, Data Engineering, Data Science and Software Engineering</strong>,
     and I enjoy collaborating on impactful projects, exchanging ideas, and building
     data-driven, engineering-led products.
   </p>
