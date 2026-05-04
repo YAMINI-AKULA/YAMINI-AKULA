@@ -48,7 +48,7 @@
 
 <h2>🚀 Key Experience & Impact</h2>
 
-**🔹 Amazon (BI & Data Engineer Intern)**  
+**🔹 Amazon (Data science engineer)**  
 ✅ Architected automated content curation platform for <b>1M+ title catalog</b> across Kindle marketplaces  
 ✅ Reduced pipeline runtime by <b>5 minutes</b> using CTEs, window functions, broadcast joins  
 ✅ Built <b>QuickSight dashboards</b> cutting stakeholder decision time by <b>60%</b>  
